@@ -121,7 +121,6 @@ public class LexicalAnalyzer {
 			lexLength = 0;					
 			getNonBlank();
 			addChar();
-			
 		}
 	}
 }
