@@ -7,7 +7,7 @@ class SyntaxAnalyzer {
   val ARTICLES : List[String] = List("teh", "a")
   val VERBS : List[String] = List("ates", "lovez", "hatez")
   val NOUNS : List[String] = List("kat", "dawg", "rat")
-  val ADJECTIVE : List[String] = List("fat", "hungry","happy", "mean")
+  val ADJECTIVES : List[String] = List("fat", "hungry","happy", "mean")
 
   // Flag for errors and helper methods
   var errorFound : Boolean = false
